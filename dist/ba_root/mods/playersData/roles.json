@@ -10,7 +10,7 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF4BUlQBJw==",
+            "pb-IF4TVXJZCg==",
             "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
         ]
     },
@@ -419,7 +419,7 @@
             1
         ],
         "commands": [],
-        "ids": []
+        "ids": [pb-IF4TVXJZCg==]
     },
     "whitelist": {
         "tag": "\\dWHITELIST_PLAYER\\d",
