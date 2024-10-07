@@ -48,7 +48,7 @@
     },
     "textonmap": {
         "top watermark": "𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
-        "bottom left watermark": "Owner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR",
+        "bottom left watermark": "\nOwner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR\n",
         "center highlights": {
             "enable": false,
             "color": [
@@ -58,7 +58,7 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
+                "\ue048WELCOME TO  𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋\ue048",
                 "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
@@ -90,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : )",
+            "join our discord : vh paradise :)",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -112,7 +112,7 @@
             "\ue048HONOR\ue048"
         ]
     },
-    "statsResetAfterDays": 30,
+    "statsResetAfterDays": 45,
     "leaderboard": {
         "enable": true,
         "barsBehindName": true
@@ -121,10 +121,10 @@
         "enable": false,
         "startTime": "18:30",
         "endTime": "06:30",
-        "Snowfall": true,
+        "Snowfall": false,
         "colorfullMap": false,
         "colorful_explosions": false,
-        "fireflies": true,
+        "fireflies": false,
         "fireflies_random_color": false
     },
     "colorfullMap": false,
@@ -146,7 +146,7 @@
         "enable": false
     },
     "timetext": {
-        "enable": false,
+        "enable": true,
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
@@ -180,26 +180,26 @@
             "Powerups": {
                 "Shield": 0,
                 "Punch": 0,
-                "Mine Bombs": 3,
-                "Impact Bombs": 1,
-                "Ice Bombs": 1,
+                "Mine Bombs": 2,
+                "Impact Bombs": 3,
+                "Ice Bombs": 3,
                 "Triple": 3,
-                "Sticky Bombs": 1,
-                "Curse": 1,
+                "Sticky Bombs": 3,
+                "Curse": 0,
                 "Health": 1,
                 "Speed": 0,
                 "Healing Damage": 0,
                 "Goodbye": 0,
                 "Ice Man": 0,
                 "Tank Shield": 0,
-                "Impairment Bombs": 0,
+                "Impairment Bombs": 2,
                 "Fire Bombs": 0,
                 "Champion": 0,
                 "Spunch": 0,
                 "Radius": 0,
                 "Multi Bomb": 0,
                 "PWP": 0,
-                "ExtraLyfe": 0,
+                "ExtraLyfe": 2,
                 "False Bombs": 0,
                 "Fly Bombs": 0
             }
@@ -214,10 +214,10 @@
             "Sticky Bombs": 3,
             "Curse": 1,
             "Health": 1,
-            "Speed": 2,
+            "Speed": 0,
             "Healing Damage": 0,
-            "Goodbye": 2,
-            "Ice Man": 1,
+            "Goodbye": 0,
+            "Ice Man": 0,
             "Tank Shield": 0,
             "Impairment Bombs": 2,
             "Fire Bombs": 3,
@@ -228,11 +228,11 @@
             "PWP": 0,
             "ExtraLyfe": 2,
             "False Bombs": 0,
-            "Fly Bombs": 2
+            "Fly Bombs": 0
         }
     },
     "discordbot": {
-        "enable": true,
+        "enable": false,
         "database_name": "default",
         "token": "MTI5Mjc3NjYwNDE0OTM1NDU1Nw.G_d6nX.q1Fas1o9EArR-KGFbnQJ2zZdMI6M_B7x1iX7GQ",
         "liveChat": true,
@@ -241,9 +241,7 @@
         "complaintChannelID": "1292735351185604628",
         "notifyChannelID": "1292736454249807947",
         "whitelisted_servers": [
-            1290948527635304458,
-            1290946109371580417
-        ],
+            1290948527635304458,                    1290946109371580417                  ],
         "allowed_user_ids": [
             1290948527635304458,
             1290946109371580417
@@ -287,7 +285,7 @@
         "lobby_idle_time_in_secs": 150
     },
     "playermod": {
-        "default_boxing_gloves": false,
+        "default_boxing_gloves": true,
         "default_shield": false,
         "default_bomb": "normal",
         "default_bomb_count": 2
@@ -312,8 +310,8 @@
     "KickVoteMsgType": "chat",
     "minAgeToChatInHours": 78,
     "minAgeToJoinInHours": 120,
-    "maxWarnCount": 4,
-    "WarnCooldownMinutes": 15,
+    "maxWarnCount": 2,
+    "WarnCooldownMinutes": 30,
     "ComplainterExpired": true,
     "complaintTimeoutInHours": 3,
     "maxAccountPerIP": 3,
@@ -334,4 +332,4 @@
     "enableTop5effects": true,
     "EnablePlayerProfilesTag": true,
     "enableTagAnimation": true
-} 
+}
