@@ -35,7 +35,8 @@
     "JoiningFast": {
         "enable": true,
         "JoiningCount": 6
-       "ChatCommands": {
+    },
+    "ChatCommands": {
         "BrodcastCommand": true
     },
     "CmdChatDisable": {
@@ -47,7 +48,7 @@
     },
     "textonmap": {
         "top watermark": "𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
-        "bottom left watermark": "Owner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR\nScripts : BY LÙÇÍFÊR",
+        "bottom left watermark": "Owner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR",
         "center highlights": {
             "enable": false,
             "color": [
@@ -57,8 +58,8 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO ☠️ 𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋☠️\ue048",
-                "\ue043click stats button to join discord\ue043",
+                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
+                "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
                 "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
@@ -89,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : vh paradise :)",
+            "join our discord : )",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -111,19 +112,19 @@
             "\ue048HONOR\ue048"
         ]
     },
-    "statsResetAfterDays": 45,
+    "statsResetAfterDays": 30,
     "leaderboard": {
         "enable": true,
         "barsBehindName": true
     },
     "autoNightMode": {
-        "enable": true,
+        "enable": false,
         "startTime": "18:30",
         "endTime": "06:30",
         "Snowfall": true,
         "colorfullMap": false,
         "colorful_explosions": false,
-        "fireflies": false,
+        "fireflies": true,
         "fireflies_random_color": false
     },
     "colorfullMap": false,
@@ -145,7 +146,7 @@
         "enable": false
     },
     "timetext": {
-        "enable": true,
+        "enable": false,
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
@@ -156,7 +157,7 @@
     },
     "ballistica_web": {
         "enable": false,
-        "server_password": "sercet_159p"
+        "server_password": "sercet_server_159"
     },
     "character_chooser": {
         "enable": true
@@ -179,26 +180,26 @@
             "Powerups": {
                 "Shield": 0,
                 "Punch": 0,
-                "Mine Bombs": 2,
-                "Impact Bombs": 3,
-                "Ice Bombs": 3,
+                "Mine Bombs": 3,
+                "Impact Bombs": 1,
+                "Ice Bombs": 1,
                 "Triple": 3,
-                "Sticky Bombs": 3,
-                "Curse": 0,
-                "Health": 0,
+                "Sticky Bombs": 1,
+                "Curse": 1,
+                "Health": 1,
                 "Speed": 0,
                 "Healing Damage": 0,
                 "Goodbye": 0,
                 "Ice Man": 0,
                 "Tank Shield": 0,
-                "Impairment Bombs": 2,
+                "Impairment Bombs": 0,
                 "Fire Bombs": 0,
                 "Champion": 0,
                 "Spunch": 0,
                 "Radius": 0,
                 "Multi Bomb": 0,
                 "PWP": 0,
-                "ExtraLyfe": 2,
+                "ExtraLyfe": 0,
                 "False Bombs": 0,
                 "Fly Bombs": 0
             }
@@ -211,45 +212,46 @@
             "Ice Bombs": 3,
             "Triple": 3,
             "Sticky Bombs": 3,
-            "Curse": 0,
+            "Curse": 1,
             "Health": 1,
-            "Speed": 0,
+            "Speed": 2,
             "Healing Damage": 0,
-            "Goodbye": 0,
-            "Ice Man": 0,
+            "Goodbye": 2,
+            "Ice Man": 1,
             "Tank Shield": 0,
             "Impairment Bombs": 2,
-            "Fire Bombs": 0,
+            "Fire Bombs": 3,
             "Champion": 0,
             "Spunch": 0,
             "Radius": 0,
             "Multi Bomb": 0,
             "PWP": 0,
-            "ExtraLyfe": 0,
+            "ExtraLyfe": 2,
             "False Bombs": 0,
-            "Fly Bombs": 0
+            "Fly Bombs": 2
         }
     },
     "discordbot": {
-        "enable": false,
+        "enable": true,
         "database_name": "default",
-        "token": "<bot-token-here>",
+        "token": "MTI5Mjc3NjYwNDE0OTM1NDU1Nw.G_d6nX.q1Fas1o9EArR-KGFbnQJ2zZdMI6M_B7x1iX7GQ",
         "liveChat": true,
-        "liveStatsChannelID": 1237851459899625512,
-        "logsChannelID": 1177676398803034153,
-        "complaintChannelID": "<complaint_channel_id>",
-        "notifyChannelID": "<notify_channel_id>",
+        "liveStatsChannelID": 1292752968629878845,
+        "logsChannelID": 1292731437769949205,
+        "complaintChannelID": "1292735351185604628",
+        "notifyChannelID": "1292736454249807947",
         "whitelisted_servers": [
-            803681951109873724
+            1290948527635304458,
+            1290946109371580417
         ],
         "allowed_user_ids": [
-            803681951109873724,
-            856735876423483454
+            1290948527635304458,
+            1290946109371580417
         ],
-        "bot_prefix": "<bot-prefix-here>",
-        "commands_prefix": "<command-prefix-here>",
-        "complaint_role": "<complaint_role_id_here>",
-        "notify_role": "<notify_role_id_here>"
+        "bot_prefix": "s!",
+        "commands_prefix": "sk",
+        "complaint_role": "1292760731267108956",
+        "notify_role": "1292760586588917771"
     },
     "autoadmin": {
         "enable": false,
@@ -310,8 +312,8 @@
     "KickVoteMsgType": "chat",
     "minAgeToChatInHours": 78,
     "minAgeToJoinInHours": 120,
-    "maxWarnCount": 2,
-    "WarnCooldownMinutes": 30,
+    "maxWarnCount": 4,
+    "WarnCooldownMinutes": 15,
     "ComplainterExpired": true,
     "complaintTimeoutInHours": 3,
     "maxAccountPerIP": 3,
@@ -332,4 +334,4 @@
     "enableTop5effects": true,
     "EnablePlayerProfilesTag": true,
     "enableTagAnimation": true
-}
+} 
