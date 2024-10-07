@@ -35,8 +35,7 @@
     "JoiningFast": {
         "enable": true,
         "JoiningCount": 6
-    },
-    "ChatCommands": {
+DIS    "ChatCommands": {
         "BrodcastCommand": true
     },
     "CmdChatDisable": {
@@ -47,8 +46,8 @@
         ]
     },
     "textonmap": {
-        "top watermark": "",
-        "bottom left watermark": "\n____________________________________\n\n\n____________________________________\n",
+        "top watermark": "𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋",
+        "bottom left watermark": "Owner : LÙÇÍFÊR \nEditor : LÙÇÍFÊR\nScripts : BY LÙÇÍFÊR",
         "center highlights": {
             "enable": false,
             "color": [
@@ -58,8 +57,8 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
-                "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
+                "\ue048WELCOME TO ☠️ 𝐓𝟑 𝐌𝐎𝐃𝐄 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋☠️\ue048",
+                "\ue043click stats button to join discord\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
                 "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
@@ -102,7 +101,7 @@
         ]
     },
     "TopMapText": {
-        "enable": true,
+        "enable": false,
         "msg": [
             "\ue062VORTEX\ue062",
             "\ue04bVORTEX x HONOR\ue04b",
@@ -122,8 +121,8 @@
         "startTime": "18:30",
         "endTime": "06:30",
         "Snowfall": true,
-        "colorfullMap": true,
-        "colorful_explosions": true,
+        "colorfullMap": false,
+        "colorful_explosions": false,
         "fireflies": false,
         "fireflies_random_color": false
     },
@@ -157,7 +156,7 @@
     },
     "ballistica_web": {
         "enable": false,
-        "server_password": "sercet_server_159"
+        "server_password": "sercet_159p"
     },
     "character_chooser": {
         "enable": true
@@ -167,7 +166,7 @@
     },
     "StumbledScoreScreen": true,
     "elPatronPowerups": {
-        "enable": true,
+        "enable": false,
         "settings": {
             "Powers Gravity": true,
             "Tank Shield PTG": 96,
@@ -185,15 +184,15 @@
                 "Ice Bombs": 3,
                 "Triple": 3,
                 "Sticky Bombs": 3,
-                "Curse": 1,
-                "Health": 1,
-                "Speed": 2,
+                "Curse": 0,
+                "Health": 0,
+                "Speed": 0,
                 "Healing Damage": 0,
-                "Goodbye": 2,
-                "Ice Man": 1,
+                "Goodbye": 0,
+                "Ice Man": 0,
                 "Tank Shield": 0,
                 "Impairment Bombs": 2,
-                "Fire Bombs": 3,
+                "Fire Bombs": 0,
                 "Champion": 0,
                 "Spunch": 0,
                 "Radius": 0,
@@ -201,7 +200,7 @@
                 "PWP": 0,
                 "ExtraLyfe": 2,
                 "False Bombs": 0,
-                "Fly Bombs": 2
+                "Fly Bombs": 0
             }
         },
         "Quantity": {
@@ -212,23 +211,23 @@
             "Ice Bombs": 3,
             "Triple": 3,
             "Sticky Bombs": 3,
-            "Curse": 1,
+            "Curse": 0,
             "Health": 1,
-            "Speed": 2,
+            "Speed": 0,
             "Healing Damage": 0,
-            "Goodbye": 2,
-            "Ice Man": 1,
+            "Goodbye": 0,
+            "Ice Man": 0,
             "Tank Shield": 0,
             "Impairment Bombs": 2,
-            "Fire Bombs": 3,
+            "Fire Bombs": 0,
             "Champion": 0,
             "Spunch": 0,
             "Radius": 0,
             "Multi Bomb": 0,
             "PWP": 0,
-            "ExtraLyfe": 2,
+            "ExtraLyfe": 0,
             "False Bombs": 0,
-            "Fly Bombs": 2
+            "Fly Bombs": 0
         }
     },
     "discordbot": {
@@ -286,7 +285,7 @@
         "lobby_idle_time_in_secs": 150
     },
     "playermod": {
-        "default_boxing_gloves": true,
+        "default_boxing_gloves": false,
         "default_shield": false,
         "default_bomb": "normal",
         "default_bomb_count": 2
@@ -305,7 +304,7 @@
     "allowInGameDm": true,
     "newResultBoard": true,
     "HostDeviceName": "v1.4",
-    "HostName": "VH-v2.0",
+    "HostName": "LÙÇÍFÊR",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
