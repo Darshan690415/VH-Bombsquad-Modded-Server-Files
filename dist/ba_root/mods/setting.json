@@ -35,7 +35,7 @@
     "JoiningFast": {
         "enable": true,
         "JoiningCount": 6
-DIS    "ChatCommands": {
+       "ChatCommands": {
         "BrodcastCommand": true
     },
     "CmdChatDisable": {
